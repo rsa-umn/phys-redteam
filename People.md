@@ -8,6 +8,13 @@ Director of Education for [Red Team Alliance](Communities.md#Red-Team-Alliance)
 and physical penetration specialist with The CORE Group, among many other
 roles and experiences. 
 
+# Lock Picking Lawyer
+Site: https://www.youtube.com/@LockPickingLawyer
+
+American YouTuber, also owner of [Covert Instruments](covertinstruments.com) ,
+known for picking various locks on camera and reviewing their effectiveness
+while pointing out security flaws. He operates anonymously.
+
 # Physical Security Village
 -  **Karen Ng** and **Terry Luan** recently gave an [Intro to Lockpicking session](https://path.rsaconference.com/flow/rsac/us26/FullAgenda/page/catalog/session/1764753923547001t7ou)
    at RSAC 2026.
