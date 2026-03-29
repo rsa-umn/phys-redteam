@@ -4,7 +4,7 @@ This page will serve as a collection of Events and Conferences related to Physic
 # ISACA Conference 2026
 https://www.isaca.org/training-and-events/conferences/isaca-north-america-conference
 
-To be held in Las Vegas and virtually this year. 
+To be held in Las Vegas and virtually this year (2026). 
 
 ISACA started in 1969 as an association for systems auditing and control, it
 has now grown to encompass information technology governance, auditing, risk
